@@ -1,4 +1,4 @@
-<div align="center" style="font-size:2em, font-weight:Bold">Hello! Welcome to my Github</div> 
+<div align="center" style="font-size:2em;font-weight:Bold;">Hello! Welcome to my Github</div> 
 <br/>
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=mikkrieg&show_icons=true&count_private=true&theme=dracula" width="53%" />
