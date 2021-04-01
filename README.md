@@ -1,8 +1,8 @@
 ## Hello There! 
 
 <div>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=Lo-GR&show_icons=true&count_private=true&theme=dracula" width="53%" />
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-GR&layout=compact&theme=dracula" width="44%"/>
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=mikkrieg&show_icons=true&count_private=true&theme=dracula" width="53%" />
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkrieg&layout=compact&theme=dracula" width="44%"/>
 </div>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
