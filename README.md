@@ -27,6 +27,8 @@
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/></code>
 <code><img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30"/></code> 
 </div>
+<br/>
+<br/>
 <p>
 <a href="https://www.linkedin.com/in/michael-kriegel/">
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
