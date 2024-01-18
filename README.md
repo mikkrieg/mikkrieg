@@ -32,7 +32,6 @@
 <a href="https://www.linkedin.com/in/michael-kriegel/">
     <img margin-left="auto" margin-right="auto" display="block" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&logoColor=white&colorB=0A66C2">
 </a>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mikkrieg" alt="visitor badge"/>
 </p>
 
 <!--
